@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "Year": "2005",
+            "imdbID": "tt0363771",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Chronicles of Narnia: Prince Caspian",
+            "Year": "2008",
+            "imdbID": "tt0499448",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTBiYzYyYWYtYTZlMC00OGYyLTg1ZTYtYWU4OGY4NTRhMzg4XkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+            "Year": "2010",
+            "imdbID": "tt0980970",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwNjNmNDgtYWFhMi00NjRhLTk5YjAtMjNjYTVkYjQwOWQwXkEyXkFqcGc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Chronicles of Narnia",
+            "Year": "2005",
+            "imdbID": "tt0776766",
+            "Type": "game",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZmJlYjhlZWMtZTdiMy00YWE5LTg2MGItMGUzMGI0NjcwZDU1XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Chronicles of Narnia: Prince Caspian",
+            "Year": "2008",
+            "imdbID": "tt1334439",
+            "Type": "game",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZGMwNDQ0YWQtNmQ3Yy00MWRhLWI0YTYtMDJiMGE5YzVjODI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "C.S. Lewis: Beyond Narnia",
+            "Year": "2005",
+            "imdbID": "tt0497337",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NTJkNGUtYTFjMS00ZTBiLWE2NTUtMjMzOTViZGRiNmJmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+        },
+        {
+            "Title": "'T4' in Narnia",
+            "Year": "2005",
+            "imdbID": "tt0495524",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "C.S. Lewis: Dreamer of Narnia",
+            "Year": "2006",
+            "imdbID": "tt0948429",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "The Narnia Code",
+            "Year": "2009",
+            "imdbID": "tt2012083",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0ZDgxZmMtNmMyMy00MmQ0LWI4ZTktZGUyODBlOGJiNmEzXkEyXkFqcGdeQXVyMTI4MTA2MjQy._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Chronicles of Narnia: Prince Caspian T4 Movie Special",
+            "Year": "2008",
+            "imdbID": "tt1285111",
+            "Type": "movie",
+            "Poster": "N/A"
+        }
+    ],
+    "totalResults": "44",
+    "Response": "True"
+}

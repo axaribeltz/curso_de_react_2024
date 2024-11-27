@@ -1,0 +1,62 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  width: 100%;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+.movies {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+}
+
+.movie {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.movie h3,
+.movie p {
+  margin: 5px;
+}
+
+.movie img {
+  border-radius: 8px;
+}
+
+.cheackbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cheackbox p {
+  margin-right: 10px;
+}
