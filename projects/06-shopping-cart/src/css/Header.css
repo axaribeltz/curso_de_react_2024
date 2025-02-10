@@ -1,0 +1,12 @@
+.header h1 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    white-space: nowrap;
+
+    padding: 5px 11px 3px 11px;
+    margin-bottom: 20px;
+}
