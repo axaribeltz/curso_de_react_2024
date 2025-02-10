@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![React Badge](https://shields.io/badge/react-white?logo=react&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
 ![JavaScript Badge](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 </div>
